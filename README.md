@@ -10,13 +10,18 @@ Considering his twitter and finding how many positive, negative and neutral twee
 For deciding the polarity of tweets & text pre-processing, we are using **NLP technique**. For building the ML model, we are using **Random Forest & KN classifier**
 
 
+## Text Pre-processing:
+
+Text pre-processing is a technique of deriving meaningful information from natural text for further analysis using NLP. It usually involves the process of structuring the input text, deriving pattern within the structural data, and finally evaluating and integrating the output
+
+
 ## Tasks performed:
 
 a) Importing of dataset 
 
 b) Found out how many tweets he made on the year 2017
 
-c) Cleaning the data (using NLTK, regular expression, strings etc libraries)
+c) Cleaned the data (using NLTK, regular expression, strings etc libraries)
 
 d) Applied Ngrams to processed data and print first 3 rows
 

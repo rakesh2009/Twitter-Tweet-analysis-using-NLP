@@ -7,7 +7,7 @@ In this problem, we are considering the Donald Trump(U.S president) tweets. He b
 Considering his twitter and finding how many positive, negative and neutral tweets. Building an ML classifier model using his tweets and polarity (positive,negative and neutral)
 
 
-For deciding the polarity of tweets & text pre-processing, we are using **NLP technique**. For building ML model, we are using **Random Forest & KN classifier**
+For deciding the polarity of tweets & text pre-processing, we are using **NLP technique**. For building the ML model, we are using **Random Forest & KN classifier**
 
 
 ## Tasks performed:
@@ -33,4 +33,25 @@ i) Found out - POSITIVE, NEGATIVE & NEUTRAL tweets
 j) Coverted the processed text data to vectors using TFIDF vectorisor
 
 j) Built ML model based on the processed text vectors & class polarity
+
+
+## Dataset Description:
+
+The dataset consists of 7375 tweets with 10 columns
+
+## Topics Covered:
+
+a) Tokenization
+
+b) Ngrams
+
+c) Stemming
+
+d) Lemmatization
+
+e) Stop words removal, punctuation removal
+
+d) Building ML model
+
+
 

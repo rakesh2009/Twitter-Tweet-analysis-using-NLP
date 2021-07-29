@@ -1,4 +1,4 @@
-# Twitter-Tweet-analysis-using-NLP
+# Twitter-Tweet-analysis-using-NLP (Sentiment analysis)
 
 In this problem, we are considering the Donald Trump(U.S president) tweets. He became popular using his tweets.
 
